@@ -157,13 +157,16 @@
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/difficultyButton"
-                style="@style/Widget.Material3.Button.OutlinedButton"
+                style="@style/Widget.Material3.Button"
                 android:layout_width="0dp"
                 android:layout_height="48dp"
                 android:layout_marginEnd="8dp"
                 android:layout_weight="1"
-                android:text="Easy"
-                android:textSize="14sp" />
+                android:backgroundTint="@color/secondary"
+                android:text="EASY"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:textStyle="bold" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/resetButton"
@@ -172,8 +175,11 @@
                 android:layout_height="48dp"
                 android:layout_marginStart="8dp"
                 android:layout_weight="1"
-                android:text="New Game"
-                android:textSize="14sp" />
+                android:backgroundTint="@color/error"
+                android:text="NEW GAME"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:textStyle="bold" />
         </LinearLayout>
 
     </LinearLayout>

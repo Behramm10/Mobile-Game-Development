@@ -21,24 +21,30 @@
         <!-- Mode Button -->
         <com.google.android.material.button.MaterialButton
             android:id="@+id/modeButton"
-            style="@style/Widget.Material3.Button.OutlinedButton"
+            style="@style/Widget.Material3.Button"
             android:layout_width="0dp"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_marginEnd="8dp"
             android:layout_weight="1"
-            android:text="vs Player"
-            android:textSize="12sp" />
+            android:backgroundTint="@color/primary"
+            android:text="VS PLAYER"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textStyle="bold" />
 
         <!-- Difficulty Button -->
         <com.google.android.material.button.MaterialButton
             android:id="@+id/difficultyButton"
-            style="@style/Widget.Material3.Button.OutlinedButton"
+            style="@style/Widget.Material3.Button"
             android:layout_width="0dp"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_marginStart="8dp"
             android:layout_weight="1"
-            android:text="Easy"
-            android:textSize="12sp" />
+            android:backgroundTint="@color/secondary"
+            android:text="EASY"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textStyle="bold" />
     </LinearLayout>
 
     <!-- Score Display -->
@@ -101,8 +107,11 @@
         android:layout_width="wrap_content"
         android:layout_height="48dp"
         android:layout_marginTop="24dp"
-        android:text="New Game"
+        android:backgroundTint="@color/error"
+        android:text="NEW GAME"
+        android:textColor="@color/white"
         android:textSize="16sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
