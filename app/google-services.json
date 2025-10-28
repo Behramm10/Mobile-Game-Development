@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121358450512",
+    "project_id": "games-app-20f3e",
+    "storage_bucket": "games-app-20f3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121358450512:android:fd81601feee17703ad7655",
+        "android_client_info": {
+          "package_name": "com.MAD.tetrisgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTUl1_GnWphQ04IOxQlT9M97SMud4n5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
