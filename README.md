@@ -29,6 +29,23 @@ A modern Android game collection featuring multiple classic games with Material 
 - **Offline Support** - Works without internet connection
 - **Real-time Updates** - Live leaderboard updates
 
+## 📸 Application Showcase  
+
+A visual walkthrough of the application's user flow from signing in to gameplay and leaderboard viewing.
+
+| 🔐 **Sign Up** | 🔑 **Login** | 🏠 **Homepage** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/sign%20in.jpeg" width="230" alt="Sign Up"/> | <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/login.jpeg" width="230" alt="Login"/> | <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/homepage.jpeg" width="230" alt="Homepage"/> |
+
+| 🎮 **Tetris** | ❌⭕ **Tic-Tac-Toe** | ⚡ **Clicker Game** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/tetris.jpeg" width="230" alt="Tetris"/> | <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/tictactoe.jpeg" width="230" alt="Tic Tac Toe"/> | <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/clicker(1).jpeg" width="230" alt="Clicker Game"/> |
+
+| 🐍 **Snake** | 🧠 **Memory Match** | 🏆 **Leaderboard** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/snake.jpeg" width="230" alt="Snake"/> | <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/memorymatcher.jpeg" width="230" alt="Memory Match"/> | <img src="https://github.com/Behramm10/Mobile-Game-Development/blob/91fbb796e91388c9a3d35e78a2b248a889ee3154/leaderboard.jpeg" width="230" alt="Leaderboard"/> |
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
