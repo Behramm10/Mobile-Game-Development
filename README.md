@@ -231,3 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: (https://github.com/behramm10)
 - Email: behramm.umrigar200@nmims.edu.in
 
+**RANVEER SINGH THAKUR**
+- GitHub: (https://github.com/ranveerst33)
+- Email: ranveersingh.thakur174@nmims.edu.in
+
