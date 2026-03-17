@@ -250,5 +250,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **RANVEER SINGH THAKUR**
 - GitHub: (https://github.com/ranveerst33)
-- Email: ranveersingh.thakur174@nmims.edu.in
+- Email: ranveersinghthakur33@gmail.com
 
